@@ -1,0 +1,33 @@
+p {
+    color: blue;
+	text-align: center;
+    width: 1500px;
+}
+div{
+    clear:both!important;
+    display:block!important;
+    width:100%!important;
+    float:none!important;
+    margin:0!important;
+    padding:0!important;
+
+    
+  }
+  
+  .center-img{
+    text-align:center;
+    }
+    .wrapper {
+        text-align: center;
+    }
+    
+    .button {
+        position: center;
+        top: 50%;
+    }
+    input.feildtext {
+        border: 1px solid #ccc;
+       }
+    input.feildtext:focus {
+        border: 1px solid #6733ae;
+       }
